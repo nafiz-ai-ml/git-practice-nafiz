@@ -12,3 +12,5 @@ A simple Python project to practice the Git and GitHub workflow.
 
 ## ▶️ How to Run
 Run `python src/main.py` from the project folder.
+
+- Error handling for invalid input and division by zero
